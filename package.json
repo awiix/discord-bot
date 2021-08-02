@@ -7,9 +7,8 @@
     "discord.js": "^11.5.1"
   },
   "devDependencies": {},
-  "script": {
-    "start": "node index.js" ,
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": {
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC"
