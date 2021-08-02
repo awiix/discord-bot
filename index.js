@@ -22,4 +22,4 @@ client.on("ready", async () =>{
     client.user.setActivity("Face4Real sur YouTube", {type:'WatCHING'} );
 });
 
-client.login ("ODcxNDg2Nzk1MTAyMTY3MDkx.YQcBUw.vV4uF8P-HSOwWvXejq0m86PU1So")
+client.login ("ODcxNDg2Nzk1MTAyMTY3MDkx.YQcBUw.VuH_uMEePD9oNJVBRHcIcupDIN4")
