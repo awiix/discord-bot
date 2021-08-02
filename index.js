@@ -19,7 +19,7 @@ client.on("guildMemberAdd", member =>{
 
 client.on("ready", async () =>{
     client.user.setStatus("online");
-    client.user.setActivity("Face4Real sur YouTube", {type:'WatCHING'} );
+    client.user.setActivity("Face4Real sur YouTube", {type:'WATCHING'} );
 });
 
 client.login(process.env.TOKEN);
